@@ -5,7 +5,7 @@ Adding readme for bikeshare project
 Title for the project bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+Multiple csv's are used in this project. User was asked to select location and take appropriate actions
 
 ### Files used
 Three csvs are used
